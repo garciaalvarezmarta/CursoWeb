@@ -3,3 +3,5 @@ He realizado una página web usando las tecnologías de HTML, CSS y JS, haciendo
 
 https://www.youtube.com/watch?v=Q2imkhmhOFo&t=809s&ab_channel=Fazt
 
+![image](https://user-images.githubusercontent.com/74204510/133777371-7eaa1925-651c-47e8-a155-902ad42ef869.png)
+![image](https://user-images.githubusercontent.com/74204510/133777475-7a8028b4-c6d2-4661-9ee3-1c7d82de7d58.png)
